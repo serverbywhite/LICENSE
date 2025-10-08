@@ -1,4 +1,4 @@
-### GIẤY PHÉP SỬ DỤNG PHẦN MỀM **Pyshadow&copy**
+### GIẤY PHÉP SỬ DỤNG PHẦN MỀM **PyshadowⒸ**
 **1. ĐIỀU KHOẢN CHUNG**
  - Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên Pyshadow (gọi tắt là **"Công cụ"**).
 
