@@ -3,7 +3,7 @@
 Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên Pyshadow (gọi tắt là "Phần mềm").
 
 **2. QUYỀN SỞ HỮU TRÍ TUỆ VÀ BẢN QUYỀN**
-a. Quyền Sở hữu: ***PyMaKaizu**** là chủ sở hữu duy nhất của Phần mềm, bao gồm toàn bộ mã nguồn, thiết kế và tài liệu liên quan.
+a. Quyền Sở hữu: ***PyMaKaizu*** là chủ sở hữu duy nhất của Phần mềm, bao gồm toàn bộ mã nguồn, thiết kế và tài liệu liên quan.
 b. Cấm Sao chép: Cấm tuyệt đối mọi hành vi sao chép, tái bản (reproduction) hoặc phân phối lại Phần mềm dưới bất kỳ hình thức nào mà không có sự cho phép bằng văn bản từ Chủ sở hữu.
 c. Cấm Đánh cắp Mã nguồn: Nghiêm cấm mọi hành vi trích xuất, đánh cắp, sao chép hoặc phổ biến bất kỳ phần nào của mã nguồn gốc của Phần mềm.
 
