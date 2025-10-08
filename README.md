@@ -1,4 +1,9 @@
 ### GIẤY PHÉP SỬ DỤNG PHẦN MỀM **Pyshadow**
+
+## Lời mở đầu
+
+Tài liệu này là Giấy phép Sử dụng Phần mềm Pyshadow (**"Công cụ"**). Bằng việc truy cập, tải xuống hoặc sử dụng Công cụ, Người dùng được xem là đã chấp nhận và đồng ý tuân thủ tất cả các điều khoản và điều kiện được nêu rõ dưới đây. **PyMaKaizu** là Chủ sở hữu và giữ toàn bộ quyền sở hữu trí tuệ đối với Công cụ này.
+
 **1. ĐIỀU KHOẢN CHUNG**
  - Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên Pyshadow (gọi tắt là **"Công cụ"**).
 
