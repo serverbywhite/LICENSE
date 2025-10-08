@@ -10,7 +10,7 @@
 3. QUYỀN CỦA NGƯỜI DÙNG
 - **Người dùng được quyền:**
 
- + a. Sử dụng: Sử dụng Phần mềm cho các mục đích hợp pháp và phù hợp với các điều khoản của Giấy phép này.
+ ~~~~ a. Sử dụng: Sử dụng Phần mềm cho các mục đích hợp pháp và phù hợp với các điều khoản của Giấy phép này.
  * b. Lấy Liên kết (**Raw Link**): Được quyền lấy liên kết raw (**raw link**) của Phần mềm hoặc các thành phần liên quan để gửi các yêu cầu thực thi (ví dụ: thực thi code qua công cụ bên ngoài, CI/CD, hoặc tương tự), với điều kiện việc thực thi đó không vi phạm bất kỳ điều khoản cấm nào dưới đây.
 
 4. HÀNH VI CẤM VÀ GIỚI HẠN SỬ DỤNG
