@@ -1,8 +1,10 @@
 ### GIẤY PHÉP SỬ DỤNG PHẦN MỀM **Pyshadow**
 
+Giấy phép cập nhật ngày 10-10-2025
+
 ## Lời mở đầu
 
-Tài liệu này là Giấy phép Sử dụng Phần mềm Pyshadow (**"Công cụ"**). Bằng việc truy cập, tải xuống hoặc sử dụng Công cụ, Người dùng được xem là đã chấp nhận và đồng ý tuân thủ tất cả các điều khoản và điều kiện được nêu rõ dưới đây. **PyMaKaizu** là Chủ sở hữu và giữ toàn bộ quyền sở hữu trí tuệ đối với Công cụ này.
+Tài liệu này là Giấy phép Sử dụng Phần mềm **Pyshadow** (**"Công cụ"**). Bằng việc truy cập, tải xuống hoặc sử dụng Công cụ, Người dùng được xem là đã chấp nhận và đồng ý tuân thủ tất cả các điều khoản và điều kiện được nêu rõ dưới đây. **PyMaKaizu** là Chủ sở hữu và giữ toàn bộ quyền sở hữu trí tuệ đối với Công cụ này.
 
 **1. ĐIỀU KHOẢN CHUNG**
  - Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên Pyshadow (gọi tắt là **"Công cụ"**).
@@ -29,4 +31,4 @@ Tài liệu này là Giấy phép Sử dụng Phần mềm Pyshadow (**"Công c�
  - Tự Chịu Trách Nhiệm: Người dùng hoàn toàn tự chịu trách nhiệm đối với mọi hậu quả, tổn thất hoặc trách nhiệm pháp lý phát sinh từ việc cố tình hoặc vô ý sử dụng sai mục đích hoặc vi phạm bất kỳ điều khoản nào của Giấy phép này. Chủ sở hữu **công cụ** (***PyMaKaizu***) sẽ không chịu bất kỳ trách nhiệm pháp lý nào liên quan đến việc lạm dụng hoặc sử dụng **công cụ** vào mục đích bất hợp pháp của Người dùng.
 
 6. HIỆU LỰC VÀ CHẤM DỨT
- - Giấy phép này có hiệu lực ngay khi Người dùng bắt đầu truy cập hoặc sử dụng **công cụ**. Chủ sở hữu có quyền chấm dứt Giấy phép ngay lập tức nếu Người dùng vi phạm bất kỳ điều khoản nào.
+ - Giấy phép này có hiệu lực ngay khi Người dùng bắt đầu truy cập hoặc sử dụng **công cụ**. Chủ sở hữu có quyền chấm dứt với người dùng nếu vi phạm các điều lệ trên.
