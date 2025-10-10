@@ -1,14 +1,14 @@
-# GIẤY PHÉP SỬ DỤNG PHẦN MỀM **Pyshadow**
+# GIẤY PHÉP SỬ DỤNG PHẦN MỀM **Pyshadow**, **PyMaKaizu**, **PyZuma**
 
-Giấy phép cập nhật ngày 10-10-2025
+Giấy phép cập nhật ngày 10-10-2025, dùng chung cho các công cụ trên.
 
 ## Lời mở đầu
 
-Tài liệu này là Giấy phép Sử dụng Phần mềm **Pyshadow** (**"Công cụ"**). Bằng việc truy cập, tải xuống hoặc sử dụng Công cụ, Người dùng được xem là đã chấp nhận và đồng ý tuân thủ tất cả các điều khoản và điều kiện được nêu rõ dưới đây. **PyMaKaizu** là Chủ sở hữu và giữ toàn bộ quyền sở hữu trí tuệ đối với Công cụ này.
+Tài liệu này là Giấy phép Sử dụng Phần mềm **Pyshadow**, **PyMaKaizu**, **PyZuma**. Bằng việc truy cập, tải xuống hoặc sử dụng Công cụ, Người dùng được xem là đã chấp nhận và đồng ý tuân thủ tất cả các điều khoản và điều kiện được nêu rõ dưới đây. **PyMaKaizu** là Chủ sở hữu và giữ toàn bộ quyền sở hữu trí tuệ đối với các Công cụ này.
 
 ### Chú Ý
 
-Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu Malware, Virus, Trojan, Keylog, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể chấm dứt với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các obf thì sẽ không hỗ trợ.
+Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu Malware, Virus, Trojan, Keylog, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể vô hiệu hóa đối với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa (**ENC**) mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các **OBF** thì sẽ không hỗ trợ.
 
 **1. ĐIỀU KHOẢN CHUNG**
  - Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên Pyshadow (gọi tắt là **"Công cụ"**).
@@ -36,3 +36,13 @@ Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công c�
 
 6. HIỆU LỰC VÀ CHẤM DỨT
  - Giấy phép này có hiệu lực ngay khi Người dùng bắt đầu truy cập hoặc sử dụng **công cụ**. Chủ sở hữu có quyền chấm dứt với người dùng nếu vi phạm các điều lệ trên.
+
+7. GIỚI HẠN TRÁCH NHIỆM
+- Chủ sở hữu không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên, đặc biệt hoặc hệ quả nào (bao gồm nhưng không giới hạn ở mất mát dữ liệu, thiệt hại kinh doanh, kiện tụng pháp lý...) phát sinh từ việc sử dụng hoặc không thể sử dụng Công cụ, kể cả khi Chủ sở hữu đã được thông báo về khả năng xảy ra các thiệt hại đó.
+
+8. KHÔNG CHUYỂN NHƯỢNG
+- Người dùng không được phép bán lại, chuyển nhượng, cho thuê, cho mượn hoặc cung cấp quyền sử dụng Công cụ cho bất kỳ bên thứ ba nào mà không có sự chấp thuận bằng văn bản của Chủ sở hữu.
+
+9. CẬP NHẬT VÀ THAY ĐỔI
+- Chủ sở hữu có quyền sửa đổi, bổ sung hoặc cập nhật các điều khoản của Giấy phép này bất cứ lúc nào. Các bản cập nhật sẽ có hiệu lực ngay khi được công bố trên kênh chính thức của Chủ sở hữu.
+- Người dùng tiếp tục sử dụng Công cụ đồng nghĩa với việc đồng ý với các điều khoản được cập nhật.
