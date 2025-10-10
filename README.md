@@ -1,4 +1,4 @@
-# GIẤY PHÉP SỬ DỤNG PHẦN MỀM  - **Pyshadow**, **PyMaKaizu**, **PyZuma**
+# GIẤY PHÉP SỬ DỤNG PHẦN MỀM     - **Pyshadow**, **PyMaKaizu**, **PyZuma**
 
 Giấy phép cập nhật ngày 10-10-2025, dùng chung cho các công cụ trên.
 
