@@ -6,7 +6,7 @@ Giấy phép cập nhật ngày 10-10-2025
 
 Tài liệu này là Giấy phép Sử dụng Phần mềm **Pyshadow** (**"Công cụ"**). Bằng việc truy cập, tải xuống hoặc sử dụng Công cụ, Người dùng được xem là đã chấp nhận và đồng ý tuân thủ tất cả các điều khoản và điều kiện được nêu rõ dưới đây. **PyMaKaizu** là Chủ sở hữu và giữ toàn bộ quyền sở hữu trí tuệ đối với Công cụ này.
 
-#### Chú Ý
+### Chú Ý
 
 Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu Malware, Virus, Trojan, Keylog, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể chấm dứt với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các obf thì sẽ không hỗ trợ.
 
