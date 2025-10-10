@@ -70,3 +70,11 @@ Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công c�
 
 **13. QUYỀN CẬP NHẬT & BẢO TRÌ**
 - Đôi khi Chủ sỡ hữu tức chúng tôi sẽ tạm dừng Công cụ để cập nhật, bảo trì, vá lỗ hổng, sẽ không báo trước nếu truy cập công cụ không được thì bạn thử lại sau ít phút đến vài giờ.
+
+**15. QUYỀN KIỂM SOÁT TẠM THỜI**
+- Trong trường hợp phát hiện rủi ro bảo mật, lạm dụng diện rộng hoặc sự cố nghiêm trọng
+- Chủ sở hữu có quyền:
+    - Tạm vô hiệu hóa một hoặc nhiều enc_id.
+    - Giới hạn truy cập API hoặc các tính năng quản lý.
+    - Chặn tạm thời người dùng cụ thể mà không cần báo trước.
+    - Sau khi sự cố được giải quyết, quyền truy cập có thể được khôi phục nếu người dùng không vi phạm.
