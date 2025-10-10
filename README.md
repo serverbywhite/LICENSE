@@ -1,4 +1,4 @@
-### GIẤY PHÉP SỬ DỤNG PHẦN MỀM **Pyshadow**
+# GIẤY PHÉP SỬ DỤNG PHẦN MỀM **Pyshadow**
 
 Giấy phép cập nhật ngày 10-10-2025
 
