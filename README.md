@@ -56,29 +56,31 @@ Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công c�
 - Chủ sở hữu có quyền sửa đổi, bổ sung hoặc cập nhật các điều khoản của Giấy phép này bất cứ lúc nào. Các bản cập nhật sẽ có hiệu lực ngay khi được công bố trên kênh chính thức của Chủ sở hữu.
 - Người dùng tiếp tục sử dụng Công cụ đồng nghĩa với việc đồng ý với các điều khoản được cập nhật.
 
-**10. BẮT BUỘC**
-- Việc tổ chức hoặc cá nhân đã dùng công cụ của chúng tôi đều phải tuân thủ các điều lệ này không có ngoại lệ đối với cá nhân hoặc tổ chức nếu bạn không chấp nhận thì dùng mã hóa của người khác chúng tôi không ép buộc nhưng đã dùng mã hóa của chúng tôi các bạn không có quyền lựa chọn không bị ràng buộc với các điều lệ trên.
-
-**11. CƠ CHẾ VÔ HIỆU HÓA VÀ XỬ LÝ VI PHẠM**
+**10. CƠ CHẾ VÔ HIỆU HÓA VÀ XỬ LÝ VI PHẠM**
 - Chủ sở hữu có quyền vô hiệu hóa, thu hồi hoặc xóa bỏ enc_id mà không cần báo trước nếu phát hiện hành vi vi phạm các điều lệ trong giấy phép này.
 - Người dùng có quyền khiếu nại nếu cho rằng việc vô hiệu hóa là không chính xác, nhưng phải cung cấp bằng chứng hợp lệ.
 - Các phiên bản, key hoặc enc_id bị vô hiệu hóa sẽ **không được phục hồi** nếu không có thỏa thuận lại bằng văn bản từ Chủ sở hữu.
 
-**12. XÁC THỰC PHIÊN BẢN & CẢNH BÁO GIẢ MẠO**
+**11. XÁC THỰC PHIÊN BẢN & CẢNH BÁO GIẢ MẠO**
 - Phiên bản chính thức của Công cụ phải có chữ ký hoặc thông tin nhận dạng từ Chủ sở hữu và ít nhất có banner quen thuộc của chúng tôi thì mới chấp nhận hỗ trợ.
 - Các bản bị chỉnh sửa, giả mạo, crack hoặc phân phối lại không thông qua kênh chính thức **sẽ không được hỗ trợ**, và **mọi trách nhiệm phát sinh thuộc về người sử dụng**.
 
-**13. QUYỀN CẬP NHẬT & BẢO TRÌ**
+**12. QUYỀN CẬP NHẬT & BẢO TRÌ**
 - Đôi khi Chủ sỡ hữu tức chúng tôi sẽ tạm dừng Công cụ để cập nhật, bảo trì, vá lỗ hổng, sẽ không báo trước nếu truy cập công cụ không được thì bạn thử lại sau ít phút đến vài giờ.
 
-**14. QUYỀN KIỂM SOÁT TẠM THỜI**
+**13. QUYỀN KIỂM SOÁT TẠM THỜI**
 - Trong trường hợp phát hiện rủi ro bảo mật, lạm dụng diện rộng hoặc sự cố nghiêm trọng
 - Chủ sở hữu có quyền:
     - Tạm vô hiệu hóa enc_id.
     - Chặn tạm thời công cụ mà không cần báo trước.
     - Sau khi sự cố được giải quyết, quyền truy cập có thể được khôi phục nếu người dùng không vi phạm.
 
-**15. PHÂN LOẠI SỬ DỤNG HỢP LỆ**
+**14. PHÂN LOẠI SỬ DỤNG HỢP LỆ**
 - Mục đích hợp lệ: bảo vệ mã nguồn, kiểm soát phát hành mã, xác thực và bảo mật thông tin.
 - Mục đích bị cấm: che giấu mã độc, thực hiện các hoạt động vi phạm pháp luật, gây hại cho hệ thống hoặc người dùng khác.
 - Người dùng vi phạm phân loại sử dụng này sẽ bị thu hồi quyền truy cập mà không cần thông báo trước.
+
+**15. TỔNG KẾT**
+- Nếu có việc tranh chấp kiện tụng pháp lí mã chúng tôi sẽ vô hiệu hóa enc_id đến khi các bạn hoặc người cung cấp Công cụ đã giải quyết xong với nhau hoặt ít nhất rằng người làm tool (Dev) cung cấp được bằng chứng mã không hề gây hại. Chúng tôi sẽ vô hiệu hóa từ 24 đến 48 giờ để trong thời gian này Dev có thể cung cấp xác thực, nếu hết thời gian mà không cung cấp được tính xác thực thì chúng tôi có quyền quyết định xóa vĩnh viễn, đồng thời chúng tôi không chịu trách nhiệm thiệt hại nào về thời gian bị vô hiệu hóa.
+- Việc tổ chức hoặc cá nhân đã dùng công cụ của chúng tôi đều phải tuân thủ các điều lệ này không có ngoại lệ đối với cá nhân hoặc tổ chức nếu bạn không chấp nhận thì dùng mã hóa của người khác chúng tôi không ép buộc nhưng đã dùng mã hóa của chúng tôi các bạn không có quyền lựa chọn không bị ràng buộc với các điều lệ trên.
+
