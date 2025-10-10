@@ -1,6 +1,6 @@
 # GIẤY PHÉP SỬ DỤNG CÔNG CỤ
 
-Các Công cụ có tên sau : **Pyshadow**, **PyMaKaizu**, **PyZuma**
+Các Công cụ có tên sau : **PyShadow**, **PyMaKaizu**, **PyZuma**
 
 Giấy phép cập nhật ngày 10-10-2025, dùng chung cho các công cụ trên.
 
