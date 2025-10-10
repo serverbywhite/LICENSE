@@ -12,6 +12,13 @@ Tài liệu này là Giấy phép Sử dụng Phần mềm **Pyshadow**, **PyMaK
 
 Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu **Malware**, **Virus**, **Trojan**, **Keylog**, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể vô hiệu hóa đối với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa (**ENC**) mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các **OBF** thì sẽ không hỗ trợ.
 
+**0. ĐỊNH NGHĨA**
+- “Công cụ”: chỉ chung cho các phần mềm có tên PyShadow, PyMaKaizu, PyZuma.
+- “ENC”: file hoặc tool đã được mã hóa bằng công cụ chính chủ.
+- “OBF”: các bản obfuscate biến thể do chúng tôi phát hành nhưng không thuộc phạm vi hỗ trợ chính thức.
+- “Chủ sở hữu”: nhóm phát triển ban đầu – PyMaKaizu.
+- “enc_id”: mã định danh duy nhất được sinh ra từ hệ thống mã hóa chính chủ, dùng để quản lý, xác minh và vô hiệu hóa nếu có vi phạm.
+
 **1. ĐIỀU KHOẢN CHUNG**
  - Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên Pyshadow (gọi tắt là **"Công cụ"**).
 
@@ -51,3 +58,15 @@ Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công c�
 
 **10. BẮT BUỘC**
 - Việc tổ chức hoặc cá nhân đã dùng công cụ của chúng tôi đều phải tuân thủ các điều lệ này không có ngoại lệ đối với cá nhân hoặc tổ chức nếu bạn không chấp nhận thì dùng mã hóa của người khác chúng tôi không ép buộc nhưng đã dùng mã hóa của chúng tôi các bạn không có quyền lựa chọn không bị ràng buộc với các điều lệ trên.
+
+**11. CƠ CHẾ VÔ HIỆU HÓA VÀ XỬ LÝ VI PHẠM**
+- Chủ sở hữu có quyền vô hiệu hóa, thu hồi hoặc xóa bỏ enc_id mà không cần báo trước nếu phát hiện hành vi vi phạm các điều lệ trong giấy phép này.
+- Người dùng có quyền khiếu nại nếu cho rằng việc vô hiệu hóa là không chính xác, nhưng phải cung cấp bằng chứng hợp lệ.
+- Các phiên bản, key hoặc enc_id bị vô hiệu hóa sẽ **không được phục hồi** nếu không có thỏa thuận lại bằng văn bản từ Chủ sở hữu.
+
+**12. XÁC THỰC PHIÊN BẢN & CẢNH BÁO GIẢ MẠO**
+- Phiên bản chính thức của Công cụ phải có chữ ký hoặc thông tin nhận dạng từ Chủ sở hữu và ít nhất có banner quen thuộc của chúng tôi thì mới chấp nhận hỗ trợ.
+- Các bản bị chỉnh sửa, giả mạo, crack hoặc phân phối lại không thông qua kênh chính thức **sẽ không được hỗ trợ**, và **mọi trách nhiệm phát sinh thuộc về người sử dụng**.
+
+**13. QUYỀN CẬP NHẬT & BẢO TRÌ**
+- Đôi khi Chủ sỡ hữu tức chúng tôi sẽ tạm dừng Công cụ để cập nhật, bảo trì, vá lỗ hổng, sẽ không báo trước nếu truy cập công cụ không được thì bạn thử lại sau ít phút đến vài giờ.
