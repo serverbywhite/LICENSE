@@ -56,7 +56,7 @@ Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công c�
 **9. CƠ CHẾ VÔ HIỆU HÓA VÀ XỬ LÝ VI PHẠM**
 - Chủ sở hữu có quyền vô hiệu hóa, thu hồi hoặc xóa bỏ enc_id mà không cần báo trước nếu phát hiện hành vi vi phạm các điều lệ trong giấy phép này.
 - Người dùng có quyền khiếu nại nếu cho rằng việc vô hiệu hóa là không chính xác, nhưng phải cung cấp bằng chứng hợp lệ.
-- Các phiên bản, key hoặc enc_id bị vô hiệu hóa sẽ **không được phục hồi** nếu không có thỏa thuận lại bằng văn bản từ Chủ sở hữu.
+- Các phiên bản, enc_id bị vô hiệu hóa sẽ **không được phục hồi** nếu không có thỏa thuận lại bằng văn bản từ Chủ sở hữu.
 
 **10. XÁC THỰC PHIÊN BẢN & CẢNH BÁO GIẢ MẠO**
 - Phiên bản chính thức của Công cụ phải có chữ ký hoặc thông tin nhận dạng từ Chủ sở hữu và ít nhất có banner quen thuộc của chúng tôi thì mới chấp nhận hỗ trợ.
