@@ -8,6 +8,18 @@ Giấy phép cập nhật ngày 10-10-2025, dùng chung cho các công cụ trê
 
 Tài liệu này là Giấy phép Sử dụng Phần mềm **Pyshadow**, **PyMaKaizu**, **PyZuma**. Bằng việc truy cập, tải xuống hoặc sử dụng Công cụ, Người dùng được xem là đã chấp nhận và đồng ý tuân thủ tất cả các điều khoản và điều kiện được nêu rõ dưới đây. **PyMaKaizu** là Chủ sở hữu và giữ toàn bộ quyền sở hữu trí tuệ đối với các Công cụ này.
 
+Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi việc mã nguồn bị tấn công nhằm gây **crack**, **dịch ngược**. Chúng tôi đem lại giải pháp bảo vệ mã nguồn của bạn khỏi các mối đe dọa nguy hiểm không đáng có, tuy nhiên không có giải pháp nào hoàn hảo để giúp cho mã nguồn của bạn tránh nguy cơ bị **'Hack'**, chúng tôi chỉ tăng chi phí và thời gian cho kẻ tấn công nhằm gây khó cho kẻ tấn công. Xin nhắc lại không có giải pháp nào bảo vệ hoàn toàn. Ngoài ra chúng tôi có cơ chế theo dõi hành vi mã của bạn nếu có dấu hiệu **malware**, **keylog**, **v.v** chúng tôi sẽ ngăn chặn ngay lập tức và không tha thứ cho các hành vi này. Không chấp nhận các kháng nghị và từ chối cung cấp dịch vụ bảo vệ.
+
+### Nhưng gì chúng tôi bảo vệ
+
+- Ngăn chặn theo dõi **"mạng"** và các công cụ tùy chỉnh để theo dõi **"mạng"**.
+- Ngăn chặn các phần mềm phổ biến như **'httptoolkit'**, **'mitm'**, **'httpproxy'**, **httpdebugging**.
+- Ngăn chặn các công cụ dịch ngược động, tĩnh như: **'FRIDA'**, **'DECOMPILE6''**, **'UNCOMPILE3'**,
+- Ngăn chặn việc dynamic analysis, static analysis bằng các công cụ tùy chỉnh.
+- Theo dõi hành vi môi trường tiến trình.
+- Ngăn **hook** ở các tầng cấp thấp, tuy nhiên nếu bị **hook** ở cấp **OS**, **Kernel** chúng tôi chịu bó tay rồi.
+- Ngăn chặn các việc **crack**
+
 ### Chú Ý
 
 Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu **Malware**, **Virus**, **Trojan**, **Keylog**, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể vô hiệu hóa đối với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa (**ENC**) mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các **OBF** thì sẽ không hỗ trợ.
