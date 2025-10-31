@@ -1,4 +1,4 @@
-# PyMaKaizu License v5.7.1
+# PyMaKaizu License v5.7.1 (Non-Commercial Use)
 
 Các Công cụ có tên sau : **PyShadow**, **PyMaKaizu**, **PyZuma**
 
@@ -94,12 +94,14 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 - Nếu một điều khoản trong bản giấy phép này bị coi là không hợp lệ hoặc không thể thực thi theo pháp luật, các điều khoản còn lại vẫn giữ nguyên hiệu lực.
 - Việc Chủ sở hữu không thực thi bất kỳ điều khoản nào không có nghĩa là từ bỏ quyền thực thi trong tương lai.
 - Giấy phép được điều chỉnh và giải thích theo pháp luật Việt Nam. Chúng tôi sẽ tố giác các hành vi sai trái đến các cơ quan công an có thẩm quyền.
-- Nếu bạn là người ngoại quốc Việt Nam thì giấy phép này sẽ sử dụng luật an ninh mạng Quốc Tế.
-- Đối với quốc tê chúng tôi sẽ ban vĩnh viễn ip và thiết bị.
+- Trong trường hợp Người dùng không thuộc lãnh thổ Việt Nam, các tranh chấp hoặc khiếu nại sẽ được xử lý theo quy định của Luật An ninh mạng quốc tế và các hiệp ước quốc tế liên quan đến quyền sở hữu trí tuệ.
+- Các hành vi vi phạm nghiêm trọng có thể dẫn đến việc cấm vĩnh viễn địa chỉ IP và thiết bị liên quan.
 
 **15. TỔNG KẾT**
 - Nếu có việc tranh chấp kiện tụng pháp lí mã chúng tôi sẽ vô hiệu hóa enc_id đến khi các bạn hoặc người cung cấp Công cụ đã giải quyết xong với nhau hoặt ít nhất rằng người làm tool (Dev) cung cấp được bằng chứng mã không hề gây hại. Chúng tôi sẽ vô hiệu hóa từ 24 đến 48 giờ để trong thời gian này Dev có thể cung cấp xác thực, nếu hết thời gian mà không cung cấp được tính xác thực thì chúng tôi có quyền quyết định xóa vĩnh viễn, đồng thời chúng tôi không chịu trách nhiệm thiệt hại nào về thời gian bị vô hiệu hóa.
 - Việc tổ chức hoặc cá nhân đã dùng công cụ của chúng tôi đều phải tuân thủ các điều lệ này không có ngoại lệ đối với cá nhân hoặc tổ chức nếu bạn không chấp nhận thì dùng mã hóa của người khác chúng tôi không ép buộc nhưng đã dùng mã hóa của chúng tôi các bạn không có quyền lựa chọn không bị ràng buộc với các điều lệ trên.
  - Giấy phép này có hiệu lực ngay khi Người dùng bắt đầu truy cập hoặc sử dụng **công cụ**. Chủ sở hữu có quyền chấm dứt với người dùng nếu vi phạm các điều lệ trên.
 
-##### PHÊN BẢN GIẤY PHÉP : 5.7.1
+**Ngày ban hành:** 10-10-2025  
+**Phiên bản:** 5.7.1  
+© 2025 PyMaKaizu – All Rights Reserved.
