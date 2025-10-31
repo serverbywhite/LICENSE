@@ -95,6 +95,7 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 - Việc Chủ sở hữu không thực thi bất kỳ điều khoản nào không có nghĩa là từ bỏ quyền thực thi trong tương lai.
 - Giấy phép được điều chỉnh và giải thích theo pháp luật Việt Nam. Chúng tôi sẽ tố giác các hành vi sai trái đến các cơ quan công an có thẩm quyền.
 - Nếu bạn là người ngoại quốc Việt Nam thì giấy phép này sẽ sử dụng luật an ninh mạng Quốc Tế.
+- Đối với quốc tê chúng tôi sẽ ban vĩnh viễn ip và thiết bị.
 
 **15. TỔNG KẾT**
 - Nếu có việc tranh chấp kiện tụng pháp lí mã chúng tôi sẽ vô hiệu hóa enc_id đến khi các bạn hoặc người cung cấp Công cụ đã giải quyết xong với nhau hoặt ít nhất rằng người làm tool (Dev) cung cấp được bằng chứng mã không hề gây hại. Chúng tôi sẽ vô hiệu hóa từ 24 đến 48 giờ để trong thời gian này Dev có thể cung cấp xác thực, nếu hết thời gian mà không cung cấp được tính xác thực thì chúng tôi có quyền quyết định xóa vĩnh viễn, đồng thời chúng tôi không chịu trách nhiệm thiệt hại nào về thời gian bị vô hiệu hóa.
