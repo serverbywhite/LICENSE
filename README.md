@@ -1,4 +1,4 @@
-# GIẤY PHÉP SỬ DỤNG CÔNG CỤ
+# PyMaKaizu License v5.7.1
 
 Các Công cụ có tên sau : **PyShadow**, **PyMaKaizu**, **PyZuma**
 
@@ -10,7 +10,7 @@ Tài liệu này là Giấy phép Sử dụng Phần mềm **Pyshadow**, **PyMaK
 
 Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi việc mã nguồn bị tấn công nhằm gây **crack**, **dịch ngược**. Chúng tôi đem lại giải pháp bảo vệ mã nguồn của bạn khỏi các mối đe dọa nguy hiểm không đáng có, tuy nhiên không có giải pháp nào hoàn hảo để giúp cho mã nguồn của bạn tránh nguy cơ bị **'Hack'**, chúng tôi chỉ tăng chi phí và thời gian cho kẻ tấn công nhằm gây khó cho kẻ tấn công. Xin nhắc lại không có giải pháp nào bảo vệ hoàn toàn. Ngoài ra chúng tôi có cơ chế theo dõi hành vi mã của bạn nếu có dấu hiệu **malware**, **keylog**, **v.v** chúng tôi sẽ ngăn chặn ngay lập tức và không tha thứ cho các hành vi này. Không chấp nhận các kháng nghị và từ chối cung cấp dịch vụ bảo vệ.
 
-### Nhưng gì chúng tôi bảo vệ
+### Những gì chúng tôi bảo vệ
 
 - Ngăn chặn theo dõi **"mạng"** và các công cụ tùy chỉnh để theo dõi **"mạng"**.
 - Ngăn chặn các phần mềm phổ biến như **'httptoolkit'**, **'mitm'**, **'httpproxy'**, **httpdebugging**.
@@ -22,7 +22,8 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 
 ### Chú Ý
 
-Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu **Malware**, **Virus**, **Trojan**, **Keylog**, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể vô hiệu hóa đối với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa (**ENC**) mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các **OBF** thì sẽ không hỗ trợ.
+- Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu **Malware**, **Virus**, **Trojan**, **Keylog**, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể vô hiệu hóa đối với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa (**ENC**) mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các **OBF** thì sẽ không hỗ trợ.
+- Cơ chế theo dõi hành vi mã không lấy dữ liệu, mã nguồn của bạn chúng tôi quét mã xem có hành vi nào gửi dữ liệu về server không nếu có coi đó là **keylog**. XIn nhắc lại chúng tôi không thu thập mã nguồn và dữ liệu của bạn
 
 **0. ĐỊNH NGHĨA**
 - “Công cụ”: chỉ chung cho các phần mềm có tên PyShadow, PyMaKaizu, PyZuma.
@@ -92,10 +93,11 @@ Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công c�
 **14. ĐIỀU KHOẢN CUỐI CÙNG**
 - Nếu một điều khoản trong bản giấy phép này bị coi là không hợp lệ hoặc không thể thực thi theo pháp luật, các điều khoản còn lại vẫn giữ nguyên hiệu lực.
 - Việc Chủ sở hữu không thực thi bất kỳ điều khoản nào không có nghĩa là từ bỏ quyền thực thi trong tương lai.
+- Giấy phép được điều chỉnh và giải thích theo pháp luật Việt Nam. Chúng tôi sẽ tố giác các hành vi sai trái đến các cơ quan công an có thẩm quyền. 
 
 **15. TỔNG KẾT**
 - Nếu có việc tranh chấp kiện tụng pháp lí mã chúng tôi sẽ vô hiệu hóa enc_id đến khi các bạn hoặc người cung cấp Công cụ đã giải quyết xong với nhau hoặt ít nhất rằng người làm tool (Dev) cung cấp được bằng chứng mã không hề gây hại. Chúng tôi sẽ vô hiệu hóa từ 24 đến 48 giờ để trong thời gian này Dev có thể cung cấp xác thực, nếu hết thời gian mà không cung cấp được tính xác thực thì chúng tôi có quyền quyết định xóa vĩnh viễn, đồng thời chúng tôi không chịu trách nhiệm thiệt hại nào về thời gian bị vô hiệu hóa.
 - Việc tổ chức hoặc cá nhân đã dùng công cụ của chúng tôi đều phải tuân thủ các điều lệ này không có ngoại lệ đối với cá nhân hoặc tổ chức nếu bạn không chấp nhận thì dùng mã hóa của người khác chúng tôi không ép buộc nhưng đã dùng mã hóa của chúng tôi các bạn không có quyền lựa chọn không bị ràng buộc với các điều lệ trên.
  - Giấy phép này có hiệu lực ngay khi Người dùng bắt đầu truy cập hoặc sử dụng **công cụ**. Chủ sở hữu có quyền chấm dứt với người dùng nếu vi phạm các điều lệ trên.
 
-##### PHÊN BẢN GIẤY PHÉP : 5.0.1
+##### PHÊN BẢN GIẤY PHÉP : 5.7.1
