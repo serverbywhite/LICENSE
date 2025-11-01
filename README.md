@@ -1,6 +1,6 @@
 # PyMaKaizu License v5.7.1 (Non-Commercial Use)
 
-Các Công cụ có tên sau : **PyShadow**, **PyMaKaizu**, **PyZuma**
+Các Công cụ có tên sau : **PyShadow**, **PyMaKaizu**, **PyZuma**.
 
 Giấy phép cập nhật ngày 10-10-2025, dùng chung cho các công cụ trên.
 
@@ -18,14 +18,14 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 - Ngăn chặn việc dynamic analysis, static analysis bằng các công cụ tùy chỉnh.
 - Theo dõi hành vi môi trường tiến trình mạng, giám sát liên tục để ngăn hook.
 - Ngăn **hook** ở các tầng cấp thấp và cấp cao, tuy nhiên nếu bị **hook** ở cấp **OS**, **Kernel** thì chúng tôi không đảm bảo được là ngăn thành công các cấp hook này.
-- Ngăn chặn các việc **crack**
+- Ngăn chặn các việc liên quan đến **crack**.
 - Ngăn fake chứng chỉ **CA**, **CC**, **SC**, **CSC**, **EC**, **DSC**, **EV**, **OV**, **DV**.
 - 
 
 ### Chú Ý
 
 - Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu **Malware**, **Virus**, **Trojan**, **Keylog**, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể vô hiệu hóa đối với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa (**ENC**) mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các **OBF** thì sẽ không hỗ trợ.
-- Cơ chế theo dõi hành vi mã không lấy dữ liệu, mã nguồn của bạn chúng tôi quét mã xem có hành vi nào gửi dữ liệu về server không nếu có coi đó là **keylog**. XIn nhắc lại chúng tôi không thu thập mã nguồn và dữ liệu của bạn
+- Cơ chế theo dõi hành vi mã không lấy dữ liệu, mã nguồn của bạn chúng tôi quét mã xem có hành vi nào gửi dữ liệu về server không nếu có coi đó là **keylog**. XIn nhắc lại chúng tôi không thu thập mã nguồn và dữ liệu của bạn.
 
 **0. ĐỊNH NGHĨA**
 - “Công cụ”: chỉ chung cho các phần mềm có tên PyShadow, PyMaKaizu, PyZuma.
