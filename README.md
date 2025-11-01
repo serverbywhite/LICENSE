@@ -19,6 +19,7 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 - Theo dõi hành vi môi trường tiến trình.
 - Ngăn **hook** ở các tầng cấp thấp, tuy nhiên nếu bị **hook** ở cấp **OS**, **Kernel** chúng tôi chịu bó tay rồi.
 - Ngăn chặn các việc **crack**
+- Ngăn fake chứng chỉ CA	
 
 ### Chú Ý
 
@@ -95,6 +96,7 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 - Việc Chủ sở hữu không thực thi bất kỳ điều khoản nào không có nghĩa là từ bỏ quyền thực thi trong tương lai.
 - Giấy phép được điều chỉnh và giải thích theo pháp luật Việt Nam. Chúng tôi sẽ tố giác các hành vi sai trái đến các cơ quan công an có thẩm quyền.
 - Trong trường hợp Người dùng không thuộc lãnh thổ Việt Nam, các tranh chấp hoặc khiếu nại sẽ được xử lý theo quy định của Luật An ninh mạng quốc tế và các hiệp ước quốc tế liên quan đến quyền sở hữu trí tuệ.
+- Các bạn quốc tể xin hãy đọc điều khoản vì khi vi phạm chúng tôi sẽ làm gắt hơn sẽ không có khiếu lại nào dành cho các bạn.
 - Các hành vi vi phạm nghiêm trọng có thể dẫn đến việc cấm vĩnh viễn địa chỉ IP và thiết bị liên quan.
 
 **15. TỔNG KẾT**
