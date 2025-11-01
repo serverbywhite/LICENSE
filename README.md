@@ -14,12 +14,13 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 
 - Ngăn chặn theo dõi **"mạng"** và các công cụ tùy chỉnh để theo dõi **"mạng"**.
 - Ngăn chặn các phần mềm phổ biến như **'httptoolkit'**, **'mitm'**, **'httpproxy'**, **httpdebugging**.
-- Ngăn chặn các công cụ dịch ngược động, tĩnh như: **'FRIDA'**, **'DECOMPILE6''**, **'UNCOMPILE3'**,
+- Ngăn chặn các công cụ dịch ngược động, tĩnh như: **'FRIDA'**, **'DECOMPILE6'**, **'UNCOMPILE3'**, **'GDB'**, **'DEBUGGING'**, v.v.
 - Ngăn chặn việc dynamic analysis, static analysis bằng các công cụ tùy chỉnh.
-- Theo dõi hành vi môi trường tiến trình.
-- Ngăn **hook** ở các tầng cấp thấp, tuy nhiên nếu bị **hook** ở cấp **OS**, **Kernel** chúng tôi chịu bó tay rồi.
+- Theo dõi hành vi môi trường tiến trình mạng, giám sát liên tục để ngăn hook.
+- Ngăn **hook** ở các tầng cấp thấp và cấp cao, tuy nhiên nếu bị **hook** ở cấp **OS**, **Kernel** thì chúng tôi không đảm bảo được là ngăn thành công các cấp hook này.
 - Ngăn chặn các việc **crack**
-- Ngăn fake chứng chỉ CA	
+- Ngăn fake chứng chỉ **CA**, **CC**, **SC**, **CSC**, **EC**, **DSC**, **EV**, **OV**, **DV**.
+- 
 
 ### Chú Ý
 
