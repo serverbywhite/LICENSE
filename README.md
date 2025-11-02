@@ -20,7 +20,6 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 - Ngăn **hook** ở các tầng cấp thấp và cấp cao, tuy nhiên nếu bị **hook** ở cấp **OS**, **Kernel** thì chúng tôi không đảm bảo được là ngăn thành công các cấp hook này.
 - Ngăn chặn các việc liên quan đến **crack**.
 - Ngăn fake chứng chỉ **CA**, **CC**, **SC**, **CSC**, **EC**, **DSC**, **EV**, **OV**, **DV**.
-- 
 
 ### Chú Ý
 1. **Thời Gian Thực Thi Mã**
