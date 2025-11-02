@@ -23,9 +23,12 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 - 
 
 ### Chú Ý
-
-- Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu **Malware**, **Virus**, **Trojan**, **Keylog**, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể vô hiệu hóa đối với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa (**ENC**) mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các **OBF** thì sẽ không hỗ trợ.
-- Cơ chế theo dõi hành vi mã không lấy dữ liệu, mã nguồn của bạn chúng tôi quét mã xem có hành vi nào gửi dữ liệu về server không nếu có coi đó là **keylog**. XIn nhắc lại chúng tôi không thu thập mã nguồn và dữ liệu của bạn.
+1. **Thời Gian Thực Thi Mã**
+ - Có thể thời gian thực thi của mã tăng lên đáng kể vì cần xác minh và ký lại khá nhiều thứ nên nếu bạn cần một mã hóa có thời gian thực thi như mã gốc thì điều này chúng tôi không thể đảm bảo với bạn. 
+2. **Báo Cáo Vi Phạm**
+ - Nếu phát hiện những Công cụ (Tools) được mã hóa bằng Công cụ mã hóa của chúng tôi mà có dấu hiệu **Malware**, **Virus**, **Trojan**, **Keylog**, v,v. Hãy báo ngay cho chúng tôi qua Telegram : junidokai, khi báo kèm theo enc_id để chúng tôi có thể vô hiệu hóa đối với các công cụ gây hại này. Lưu ý nếu có thể hãy chứng minh rằng Công cụ (Tools) đó gây hại để không bị xóa một cách vô cớ đối với các Dev và chỉ những Công cụ mã hóa (**ENC**) mà có tên của chúng tôi thì sẽ được chấp nhận yêu cầu xóa còn các **OBF** thì sẽ không hỗ trợ.
+3. **Khẳng Định An Toàn**
+ - Cơ chế theo dõi hành vi mã không lấy dữ liệu, mã nguồn của bạn chúng tôi quét mã xem có hành vi nào gửi dữ liệu về server không nếu có coi đó là **keylog**. XIn nhắc lại chúng tôi không thu thập mã nguồn và dữ liệu của bạn.
 
 **0. ĐỊNH NGHĨA**
 - “Công cụ”: chỉ chung cho các phần mềm có tên PyShadow, PyMaKaizu, PyZuma.
