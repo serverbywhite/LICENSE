@@ -12,3 +12,9 @@
 - Prevent **hooks** at low and high levels, however, if **hooked** at the **OS**, **Kernel** level, we cannot guarantee that these hook levels will be successfully blocked.
 - Prevent things related to **crack**.
 - Prevent fake certificates **CA**, **CC**, **SC**, **CSC**, **EC**, **DSC**, **EV**, **OV**, **DV**.
+
+### Attention
+1. **Code Execution Time**
+ - The execution time of the code may increase significantly because of the need to verify and re-sign quite a lot of things, so if you need an encryption with the same execution time as the original code, we cannot guarantee this to you.
+2. **Report Violation**
+ - If you find any Tools encrypted with our Encryption Tool that show signs of **Malware**, **Virus**, **Trojan**, **Keylog**, etc., please notify us immediately via Telegram: junidokai, when reporting, include enc_id so we can disable these harmful tools. Note that if possible, please prove that the Tools are harmful so that they are not deleted without reason for the Devs and only Encryption Tools (**ENC**) with our name will be accepted for deletion requests, while **OBF** will not be supported.
