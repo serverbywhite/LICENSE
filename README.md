@@ -2,7 +2,7 @@
 
 Các Công cụ có tên sau : **PyShadow**, **PyMaKaizu**, **PyZuma**.
 
->Giấy phép cập nhật ngày 10-10-2025, dùng chung cho các công cụ trên.
+Giấy phép cập nhật ngày 10-10-2025, dùng chung cho các công cụ trên.
 
 ## Lời mở đầu
 
@@ -33,11 +33,11 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
  - Cơ chế theo dõi hành vi mã không lấy dữ liệu, mã nguồn của bạn chúng tôi quét mã xem có hành vi nào gửi dữ liệu về server không nếu có coi đó là **keylog**. XIn nhắc lại chúng tôi không thu thập mã nguồn và dữ liệu của bạn.
 
 **0. ĐỊNH NGHĨA**
-- “Công cụ”: chỉ chung cho các phần mềm có tên PyShadow, PyMaKaizu, PyZuma.
-- “ENC”: file hoặc tool đã được mã hóa bằng công cụ chính chủ.
-- “OBF”: các bản obfuscate biến thể do chúng tôi phát hành nhưng không thuộc phạm vi hỗ trợ chính thức.
-- “Chủ sở hữu”: nhóm phát triển ban đầu – PyMaKaizu.
-- “enc_id”: mã định danh duy nhất được sinh ra từ hệ thống mã hóa chính chủ, dùng để quản lý, xác minh và vô hiệu hóa nếu có vi phạm.
+>- “Công cụ”: chỉ chung cho các phần mềm có tên PyShadow, PyMaKaizu, PyZuma.
+>- “ENC”: file hoặc tool đã được mã hóa bằng công cụ chính chủ.
+>- “OBF”: các bản obfuscate biến thể do chúng tôi phát hành nhưng không thuộc phạm vi hỗ trợ chính thức.
+>- “Chủ sở hữu”: nhóm phát triển ban đầu – PyMaKaizu.
+>- “enc_id”: mã định danh duy nhất được sinh ra từ hệ thống mã hóa chính chủ, dùng để quản lý, xác minh và vô hiệu hóa nếu có vi phạm.
 
 **1. ĐIỀU KHOẢN CHUNG**
  - Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên Pyshadow (gọi tắt là **"Công cụ"**).
