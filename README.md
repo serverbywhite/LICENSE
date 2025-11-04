@@ -2,7 +2,7 @@
 
 Các Công cụ có tên sau : **PyShadow**, **PyMaKaizu**, **PyZuma**.
 
-===Giấy phép cập nhật ngày 10-10-2025, dùng chung cho các công cụ trên.
+>>>Giấy phép cập nhật ngày 10-10-2025, dùng chung cho các công cụ trên.
 
 ## Lời mở đầu
 
