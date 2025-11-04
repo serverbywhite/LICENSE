@@ -248,15 +248,15 @@ Once revoked, an enc_id cannot be restored unless reauthorized in writing by the
 
 10. AUTHENTICATION AND ANTI-FORGERY NOTICE
 
-Official Tools must contain a signature or identifier from the Owner.
+- Official Tools must contain a signature or identifier from the Owner.
 Modified, cracked, or redistributed versions are not supported, and all responsibility falls on the user.
 
-11. MAINTENANCE AND SERVICE RIGHTS
+**11. MAINTENANCE AND SERVICE RIGHTS**
 
-The Owner may temporarily suspend the Tool for maintenance, patching, or upgrades without prior notice.
+ - The Owner may temporarily suspend the Tool for maintenance, patching, or upgrades without prior notice.
 If access is unavailable, try again after a few minutes or hours.
 
-12. TEMPORARY CONTROL RIGHTS
+**12. TEMPORARY CONTROL RIGHTS**
 
 In cases of severe security risks, widespread abuse, or system failures, the Owner may:
 
@@ -275,7 +275,7 @@ Prohibited Purposes:
 Concealing malware, performing illegal actions, or harming systems or users.
 Violators will lose access immediately without notice.
 
-**14. FINAL TERMS**
+**14. Final Terms**
 
 If any clause in this License is deemed invalid or unenforceable, the remaining clauses remain in effect.
 Failure by the Owner to enforce any provision does not waive its future enforcement rights.
@@ -284,7 +284,7 @@ Violations will be reported to the competent authorities.
 For non-Vietnamese users, disputes shall follow international cybersecurity and IP law.
 Severe violations may result in permanent bans of IP addresses and related devices.
 
-**15. SUMMARY**
+**15. Sumary**
 
 In case of legal disputes, the enc_id may be temporarily disabled for 24–48 hours while verification is performed.
 If the developer fails to provide valid proof of legitimacy, the Owner reserves the right to permanently delete the enc_id.
