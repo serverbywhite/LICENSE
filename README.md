@@ -13,16 +13,14 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 ### Những gì chúng tôi bảo vệ
 
 - Ngăn chặn theo dõi **"mạng"** và các công cụ tùy chỉnh để theo dõi **"mạng"**.
-- Ngăn chặn các phần mềm phổ biến như **'httptoolkit'**, **'mitm'**, **'httpproxy'**, **httpdebugging**.
+- Ngăn chặn các phần mềm phổ biến như **'httptoolkit'**, **'MITM'**, **'HTTPPROXY'**, **HTTPDEBUGGING**.
 - Ngăn chặn các công cụ dịch ngược động, tĩnh như: **'FRIDA'**, **'DECOMPILE6'**, **'UNCOMPILE3'**, **'GDB'**, **'DEBUGGING'**, v.v.
-- Ngăn chặn việc dynamic analysis, static analysis bằng các công cụ tùy chỉnh.
+- Ngăn chặn việc **Dynamic Analysis**, **Static Analysis** bằng các công cụ tùy chỉnh.
 - Theo dõi hành vi môi trường tiến trình mạng, giám sát liên tục để ngăn hook.
-- Ngăn **hook** ở các tầng cấp thấp và cấp cao, tuy nhiên nếu bị **hook** ở cấp **OS**, **Kernel** thì chúng tôi không đảm bảo được là ngăn thành công các cấp hook này.
-- Ngăn chặn các việc liên quan đến **crack**.
+- Ngăn **hook** ở các tầng cấp thấp và cấp cao, tuy nhiên nếu bị **Hook** ở cấp **OS**, **Kernel** thì chúng tôi không đảm bảo được là ngăn thành công các cấp hook này.
 - Ngăn chặn các loại hook như **Audithoook**, **Hook cùng tiến trình**, **Hook trước tiến trình**, tuy nhiên nếu hook tùy chỉnh do người khác viết thì chúng tôi không đảm bảo ngăn được, (Có thể báo cách thức của hook cho chúng tôi đê nâng cấp lên bản chống lại mới hơn).
-- Chiếm lại quyền tiến trình để làm sạch môi trường thực thi.
 - Ngăn fake chứng chỉ **CA**, **CC**, **SC**, **CSC**, **EC**, **DSC**, **EV**, **OV**, **DV**.
-
+- ###### Lưu ý: Phải chắc chắn môi trường thực thi của bạn không có module độc đại.
 
 ### Chú Ý
 1. **Thời Gian Thực Thi Mã**
