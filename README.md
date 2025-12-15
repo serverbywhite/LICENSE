@@ -38,7 +38,7 @@ Những gì chúng tôi làm là mang lại một giải pháp bảo vệ khỏi
 >- “enc_id”: mã định danh duy nhất được sinh ra từ hệ thống mã hóa chính chủ, dùng để quản lý, xác minh và vô hiệu hóa nếu có vi phạm.
 
 **1. ĐIỀU KHOẢN CHUNG**
- - Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên Pyshadow (gọi tắt là **"Công cụ"**).
+ - Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên **PyMaKaizu**,**PyShadow**, **PyVarLight** (gọi tắt là **"Công cụ"**).
 
 **2. QUYỀN SỞ HỮU TRÍ TUỆ VÀ BẢN QUYỀN**
  - Quyền Sở hữu: ***PyMaKaizu*** là chủ sở hữu duy nhất của **công cụ**, bao gồm toàn bộ **mã nguồn**, thiết kế và tài liệu liên quan.
